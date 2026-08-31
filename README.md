@@ -2,7 +2,7 @@
 
 > An interactive **Sales Data Analysis Dashboard** built using **Microsoft Power BI** to analyze sales performance, identify trends, compare business metrics, and explore detailed order-level information.
 
----
+--- 
  
 ## 🚀 Project Overview     
 
